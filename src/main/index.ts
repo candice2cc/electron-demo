@@ -6,7 +6,6 @@ import icon from '../../resources/icon.png?asset'
 import log from 'electron-log'
 
 autoUpdater.logger = log
-autoUpdater.logger.transports.file.level = 'info'
 
 log.info('App starting...')
 function createWindow(): void {

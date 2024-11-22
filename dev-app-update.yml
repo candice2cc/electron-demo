@@ -1,5 +1,6 @@
 version: 1.0.1
 files:
-  - url: https://github.com/candice2cc/electron-demo/releases/download/1.0.0/electron-demo-1.0.1-setup.exe
-    sha512: 3838e4974f65d70097037cf73c34ff7f13218c290271a59e8072696ce72bca6319aaf29544345c1e1d32c72fd6081d2d80f8ea19290d4c5f6faacbacfb9a2f06
+  - url: https://github.com/candice2cc/electron-demo/releases/download/1.0.0/electron-demo-1.0.2-setup.exe
+    sha512: 545004ca080177c4f05cf7d0f0556826bb5f71905e034c8e68896b93b95e03ddedd2493404678e45665577baf0d927257afc9e01022f681f92fb3f54952a5bb3
+
 
